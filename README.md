@@ -50,5 +50,6 @@ PM> Install-Package VkNet
 - [![PayPal](https://img.shields.io/badge/PayPal-donate-red.svg)](https://www.paypal.me/InyutinMaxim)
 - Также вы можете помочь проекту `Pull Request`'ом
 
-Как  использовать VkNet  https://www.youtube.com/watch?v=9RRXJVAVa60
+Как  использовать Vk.Net  c WinForm https://www.youtube.com/watch?v=9RRXJVAVa60
+Как использовать с CL https://habr.com/ru/post/438874/
 
